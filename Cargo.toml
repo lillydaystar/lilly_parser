@@ -1,0 +1,9 @@
+[package]
+name = "lilly_parser"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "my awesome parser"
+
+[dependencies]
+peg = "0.8.4"
